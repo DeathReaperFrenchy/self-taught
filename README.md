@@ -8,6 +8,8 @@ Since graduating HighSchool in June of 2011. I always aspired to become a Red Se
 Which brings us to now, 3 years and a bit since the date of accident. After many weeks, months of reflections and counteless hours of conversation with my very supportive wife. What career could i get into that would give me a similar drive than the automotive world did ? That's when the idea of becoming a Full stack web developer could be a great opportunity, from aspiring automotive technician to now being an aspiring internet technician.
 From self-teaching to career ready!
 Of course I didn't learn everything alone, I attended a 6 week booth camp offered through an  organization called Lighthouse Labs as well as the Full-Stack web developer Diploma from the University of Alberta in Edmonton were the biggest resources that were made available to me.
+# What drives me ?
+To conclude this short introduction page, the drive for me, into this field is due to multiple factors such as, my gaming passion, the unwavering support from my wife, the constant new ideas, passion to update or come out with new apps to make people's life easier in this always evolving world where technology is always 10 step ahead.
 
 
 
